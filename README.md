@@ -37,8 +37,11 @@ Users can create accounts, post tweets, follow or unfollow others, like tweets, 
 ##  Project Structure
 
 ├── Main.java → Application entry point
+
 ├── Twitter.java → Core logic (menus, actions, workflows)
+
 ├── User.java → User entity with account and following system
+
 └── Tweet.java → Tweet entity with likes and ID generation
 
 ## Future Improvements
