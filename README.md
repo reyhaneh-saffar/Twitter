@@ -1,7 +1,7 @@
 # Java Twitter Console Simulation
 
 A lightweight console-based Java application that simulates a mini version of Twitter.  
-Users can create accounts, post tweets, follow or unfollow others, like tweets, and view personalized timelines — all within the terminal.
+Users can create accounts, post tweets, follow or unfollow others, like tweets, and view personalized timelines — all within the terminal. (completed in 2021)
 
 ---
 
